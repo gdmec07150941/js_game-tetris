@@ -1,0 +1,27 @@
+.playground {
+    width: 525px;
+    height: 550px;
+    background: url(../img/tetris.png);
+    margin: 20px auto 10px auto;
+    position: relative;
+}
+.playground img {
+    position: absolute;
+	z-index: 10;
+	width: 26px;
+}
+.playground p {
+    font-size: 30px;
+    font-family: 'SimHei';
+    font-weight: bold;
+    color: #667799;
+    position: absolute;
+    top: 120px;
+    left: 305px;
+}
+.playground p+p {
+    top: 176px;
+}
+.playground p+p+p {
+    top: 232px;
+}
