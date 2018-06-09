@@ -1,6 +1,6 @@
 # 俄罗斯方块
 
-[项目预览](index.html)
+[项目预览](https://gdmec07150941.github.io/js_game-tetris/tetris.html)
 
 ### 项目目的
 
